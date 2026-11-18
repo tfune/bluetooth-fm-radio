@@ -1,0 +1,12 @@
+# VS Code local settings
+.vscode/settings.json
+
+# ESP-IDF build output
+build/
+
+# Python
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
